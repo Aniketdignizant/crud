@@ -27,6 +27,11 @@ const Home = () => {
               Hooks
             </Link>
           </li>
+          <li className="navbar-item">
+            <Link to="/reactLyfeCycleMethod" className="navbar-link">
+              ReactLyfeCycleMethod
+            </Link>
+          </li>
         </ul>
       </nav>
       <div className="welcome-message">welcome to react examples</div>

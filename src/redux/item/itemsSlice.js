@@ -1,4 +1,3 @@
-// src/redux/features/items/itemsSlice.js
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit"
 
 const initialState = {
